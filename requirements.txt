@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Flet framework
+flet==0.23.0
+
+# Optional authentication support
+supabase==1.24.0
+
+# State management and routing utilities
+pyyaml==6.0
+
+# Development tools
+watchdog==3.0.0
