@@ -18,6 +18,11 @@
 
 ## 🛠️ Installation
 
+0. Clone the repository:
+```bash
+git clone https://github.com/Awesomeali01/zypher
+```
+
 1. Navigate To Zypher
 ```bash
 cd Zypher
